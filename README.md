@@ -9,6 +9,7 @@ PKGBUILDs for my AUR packages. Source of truth for packaging metadata; synced to
 | [waybar-claude-usage](https://aur.archlinux.org/packages/waybar-claude-usage) | Waybar widget for Claude AI usage | [source](https://github.com/mryll/waybar-claude-usage) |
 | [waybar-codex-usage](https://aur.archlinux.org/packages/waybar-codex-usage) | Waybar widget for OpenAI Codex usage | [source](https://github.com/mryll/waybar-codex-usage) |
 | [waybar-logitech-battery](https://aur.archlinux.org/packages/waybar-logitech-battery) | Waybar widgets for Logitech battery monitoring | [source](https://github.com/mryll/waybar-logitech-battery) |
+| [meteobar](https://aur.archlinux.org/packages/meteobar) | Weather widget for Waybar using Open-Meteo | [source](https://github.com/mryll/meteobar) |
 
 ## Workflow
 
